@@ -9,3 +9,4 @@ List of the machines:
 
 To-Do list:
 
+For more information go to the "Wiki" tab.
